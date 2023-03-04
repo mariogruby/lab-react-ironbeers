@@ -1,0 +1,27 @@
+/* .intento-bg{
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+
+
+}
+.intento-bg::before{
+    content:"";
+    background-image: conic-gradient(#707070, #707070, #e7f2fd, #e7f2fd,);
+    position: absolute;
+    height: 1500px;
+    width: 1500px;
+    animation: rotate 10s linear infinite;
+
+
+
+}
+@keyframes rotate{
+    100%{
+transform: rotate(360deg);
+    }
+} */
